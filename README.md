@@ -1,5 +1,6 @@
 # Ad_Performance_Analysis
 
+
 Overview
 The analysis examines various metrics including:
 
@@ -9,7 +10,7 @@ The analysis examines various metrics including:
 -Click-Through Rate (CTR): Engagement levels of the ads.
 
 The insights are derived both at the campaign level and at a more granular adgroup level, allowing for an in-depth view of performance trends and areas for improvement.
-
+___________________________________________________________________________________________________
 Key Analyses
 
 Daily Performance by Campaign:
@@ -23,8 +24,9 @@ Displays the running totals of conversions and costs over time to provide a clea
 
 Adgroup-Level Insights:
 Further analysis of adgroup performance, including breakdowns of CTR, conversions, and cost efficiency, to pinpoint strengths and opportunities for optimization.
-
+____________________________________________________________________________________________________
 Insights & Recommendations
+
 The analysis reveals that while some campaigns are highly efficient—delivering a large number of conversions at low cost—others require optimization in terms of creative, targeting, or budget allocation. Key recommendations include:
 
 -Scaling high-performing campaigns.
