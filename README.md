@@ -35,5 +35,5 @@ The analysis reveals that while some campaigns are highly efficient—delivering
 -Scaling high-performing campaigns.
 
 -Revisiting strategies for underperforming campaigns
-.
+
 -Testing new creatives and targeting approaches to improve engagement (CTR) and cost efficiency.
