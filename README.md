@@ -33,5 +33,7 @@ Insights & Recommendations
 The analysis reveals that while some campaigns are highly efficient—delivering a large number of conversions at low cost—others require optimization in terms of creative, targeting, or budget allocation. Key recommendations include:
 
 -Scaling high-performing campaigns.
--Revisiting strategies for underperforming campaigns.
+
+-Revisiting strategies for underperforming campaigns
+.
 -Testing new creatives and targeting approaches to improve engagement (CTR) and cost efficiency.
